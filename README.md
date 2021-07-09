@@ -1,12 +1,10 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Checkout Live App](https://harshprajapati-portfolio.netlify.app/)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+<!-- ![Portfolio Website](https://drive.google.com/file/d/1KiMJVMuzdEc1hT2Sh8dU_sguclD_5Bpa/view?usp=sharing) -->
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+Full Stack Web Developer Personal Portfolio. Built with Nextjs & Styled-Components.
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
-
-Setup:
-- run ```npm i && npm start```
+RUN:
+- ```yarn && yarn run dev```
