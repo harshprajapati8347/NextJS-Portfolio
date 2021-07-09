@@ -13,7 +13,7 @@ import {
   SocialContainer,
   SocialIconsContainer,
 } from "./FooterStyles";
-
+  
 const Footer = () => {
   return (
     <FooterWrapper>
